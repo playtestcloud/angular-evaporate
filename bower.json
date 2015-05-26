@@ -1,7 +1,7 @@
 {
     "name": "angular-evaporate",
-    "version": "0.0.2",
-    "main": ["lib/angular-evaporate.js", "lib/evaporate.js"],
+    "version": "0.0.3",
+    "main": ["lib/evaporate.js", "lib/angular-evaporate.js"],
     "description": "AngularJS module for the EvaporateJS library",
     "keywords": ["upload", "resumable upload", "evaporate", "angular"],
     "repository": {
