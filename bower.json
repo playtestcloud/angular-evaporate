@@ -6,7 +6,7 @@
     "keywords": ["upload", "resumable upload", "evaporate", "angular"],
     "repository": {
     "type": "git",
-        "url": "https://github.com/uquee/angular-evaporate.git"
+        "url": "https://github.com/playtestcloud/angular-evaporate.git"
     },
     "dependencies": {
         "angular": "*"
