@@ -1,4 +1,6 @@
+/bower_components
 /example/.env
 /example/node_modules
 .jshintrc
 .DS_Store
+npm-debug.log
